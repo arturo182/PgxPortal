@@ -1,0 +1,3 @@
+image/admin/poll.gif|Ankiety|
+admin.php?mode=poll|Edycja|
+admin.php?mode=poll&action=add|Dodaj|

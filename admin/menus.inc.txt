@@ -1,0 +1,3 @@
+image/admin/blocks.gif|Bloki menu|
+admin.php?mode=menus|Edycja|
+admin.php?mode=menus&action=add|Dodaj|

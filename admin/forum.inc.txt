@@ -1,0 +1,5 @@
+image/admin/forum.gif|Forum|
+admin.php?mode=forum|Dzia³y|
+admin.php?mode=word|Cenzura|
+admin.php?mode=smiley|Emotikonki|
+admin.php?mode=users|U¿ytkownicy|

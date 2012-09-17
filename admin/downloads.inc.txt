@@ -1,0 +1,7 @@
+image/admin/download.gif|Download|
+admin.php?mode=downloads|Edycja Folderów|
+admin.php?mode=downloads&action=add|Dodaj folder|
+admin.php?mode=downloads&action=listfiles|Edycja plików|
+admin.php?mode=downloads&action=addf|Dodaj plik|
+admin.php?mode=downloads&action=upload|Upload pliu|
+admin.php?mode=downloads&action=broken|Zepsute pliki|

@@ -1,0 +1,5 @@
+image/admin/articles.gif|Artyku³y|
+admin.php?mode=articles|Edycja Kategorii|
+admin.php?mode=articles&action=edita|Edycja Artyku³ów|
+admin.php?mode=articles&action=add|Dodaj kategoriê|
+admin.php?mode=articles&action=addf|Dodaj|

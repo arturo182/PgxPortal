@@ -1,0 +1,3 @@
+image/admin/banners.gif|Bannery|
+admin.php?mode=banners|Edycja|
+admin.php?mode=banners&action=add|Dodaj|

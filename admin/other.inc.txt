@@ -1,0 +1,5 @@
+image/admin/inne.gif|Inne|
+admin.php?mode=guestbook|Ksiêga go¶ci|
+admin.php?mode=config|Ustawienia|
+admin.php?mode=newsl|Subskrypcja|
+admin.php?mode=bans|Banowanie|

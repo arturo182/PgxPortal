@@ -1,0 +1,3 @@
+image/admin/news.gif|Newsy|
+admin.php?mode=news|Edycja|
+admin.php?mode=news&action=add|Dodaj|

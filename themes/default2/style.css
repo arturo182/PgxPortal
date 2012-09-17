@@ -1,0 +1,77 @@
+a:link, a:visited, a:active {
+border : 0px;
+color : #DDDDDD;
+font-family : Verdana;
+font-size : 10px;
+text-decoration : none;
+}
+
+.yellow {
+color : #FFD531;
+font-family : Verdana;
+font-size : 10px;
+text-decoration : none;
+}
+
+a:hover {
+color : #FFD531;
+font-family : Verdana;
+font-size : 10px;
+text-decoration : none;
+}
+
+
+.quote {
+font-family: Verdana; font-size: 11px; color: gray; line-height: 125%;
+background-image: url(../themes/default/gfx/bg1.gif); border: #c1c1c1; border-style: solid;
+border-left-width: 1px; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px
+}
+
+.code {
+font-family: Courier New; font-size: 11px; color: gray; line-height: 125%;
+background-image: url(../themes/default/gfx/bg1.gif); border: #c1c1c1; border-style: solid;
+border-left-width: 1px; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px
+}
+
+body {
+margin : 0;
+scrollbar-3dlight-color : #2F2F2F;
+scrollbar-arrow-color : #FFFFFF;
+scrollbar-base-color : #2F2F2F;
+scrollbar-darkshadow-color : #393939;
+scrollbar-face-color : #2F2F2F;
+scrollbar-highlight-color : #4C4C4C;
+scrollbar-shadow-color : #3D3D3D;
+scrollbar-track-color : #2F2F2F;
+}
+
+input, select, textarea {
+background-color : #3E3E3E;
+border : 1px #626262 solid;
+color : #EEEEEE;
+font-family : Verdana;
+font-size : 10px;
+}
+
+td {
+color : #FFFFFF;
+font-family : Verdana;
+font-size : 10px;
+}
+
+.small {
+font-size : 9px;
+}
+
+hr {
+color : #FFD531;
+width: 100%;
+}
+
+.p {
+color: #FFE78A;
+font-family : Verdana;
+font-size: 11px;
+
+}
+
